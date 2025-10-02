@@ -50,7 +50,7 @@ text-shadow: 8px 8px 8px;
 }
 a{
     text-decoration: none;
-    color: rgb(238, 192, 177);
+    color: rgb(0, 0, 0);
     margin: 30px;
     padding:7.5px;
     border: 2px solid black;
@@ -58,6 +58,7 @@ a{
 background-color: blanchedalmond;
 
 }
+
 
 
 
